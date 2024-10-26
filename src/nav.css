@@ -1,0 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navBar{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    background-color: aqua;
+    padding: 10px;
+    
+}
+
+.navBar i{
+    font-size: 30px;
+}
+
+.navBar > h1{
+    text-decoration: underline;
+}
+
